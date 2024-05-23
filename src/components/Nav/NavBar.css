@@ -1,0 +1,43 @@
+.nav-container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #e9e8e8;
+    z-index: 1;
+}
+.navbar-nav{
+    flex: 1;
+    justify-content: center;
+    gap: 0 60px;
+    font-size: 16px;
+}
+nav{
+   padding-left: 30px;
+  padding-right: 30px;
+  font-family:sans-serif;
+  /* background-color: #cee7e4; */
+  z-index: 1;
+}
+.cart-icon{
+    font-size: 35px;
+}
+.cart-container{
+    display: flex;
+    justify-content: end;
+    cursor: pointer;
+}
+.cart-count{
+    height: 25px;
+    min-width: 27px;
+    background-color: red;
+    border-radius: 100%;
+    position: relative;
+    right: -43px;
+    top: -8px;
+    text-align: center;
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    color: #fb641b;
+}

@@ -1,0 +1,54 @@
+.home-page-container{
+    width: 100%;
+    height: calc(100vh - 56px);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.9)), url(../../assets/images/home\ bg\ image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* position: fixed;
+    top: 0;
+    left: 0; */
+    margin-top: 56px;
+}
+.home-page-container .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.home-page-container .container h1{
+        font-family: "Black Ops One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;  
+}
+.login-btn-container{
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.login-btn{
+    padding: 15px 40px;
+    border: 1px solid #ddd;
+    transition: .3s;
+}
+.shop-btn{
+    padding: 15px 40px;
+    border: 1px solid #ddd;
+    transition: .3s;
+}
+.login-btn:hover{
+    background-color: rgb(226, 84, 8);
+    color: #ffffff;
+   
+}
+.shop-btn:hover{
+    background-color: rgb(226, 84, 8);
+    color: #ffffff;
+   
+}
