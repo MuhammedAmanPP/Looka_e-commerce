@@ -1,11 +1,11 @@
 
 ## Technologies Used
 
-HTML
-CSS
-JAVASCRIPT
-BOOTSTRAP
-REACT JS
+#HTML
+#CSS
+#JAVASCRIPT
+#BOOTSTRAP
+#REACT JS
 
 ### `npm start`
 
