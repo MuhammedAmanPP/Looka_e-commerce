@@ -1,7 +1,11 @@
 
-## Available Scripts
+## Technologies Used
 
-In the project directory, you can run:
+HTML
+CSS
+JAVASCRIPT
+BOOTSTRAP
+REACT JS
 
 ### `npm start`
 
