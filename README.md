@@ -1,11 +1,14 @@
-
+4
 ## Technologies Used
 
-<H1>HTML</H1>
-<H1>CSS</H1>
-<H1>JAVASCRIPT</H1>
-<H1>BOOTSTRAP</H1>
-<H1>REACT JS</H1>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>BOOTSTRAP</li>
+  <li>REACT JS</li>
+  
+</ul>
 
 ### `npm start`
 
